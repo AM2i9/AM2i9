@@ -3,7 +3,7 @@
 
 My name is Patrick Brennan. I am a Computer Science student in High School. I won't say where, because one of my friends prefers to NOT be doxxed.
 
-I began getting into computers and programming when I was maybe 10, and I just continued to grow to use it more often. I mostly do a lot of backend using Python and have experience running Linux systems. But, I have a little experience with Javascript, Java, C, and Lua.
+I began getting into computers and programming when I was maybe 10, and I just continued to grow to use it more often. I mostly do a lot of backend using Python and have experience running Linux systems. But, I have a little experience with Javascript, Java, C++, and Lua.
 
 I also have experience with MongoDB, and a VERY minimal ammount of SQL.
 
