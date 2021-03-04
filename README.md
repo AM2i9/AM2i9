@@ -8,6 +8,7 @@ I began getting into computers and programming when I was maybe 10, and I just c
 I also have experience with MongoDB, and a VERY minimal ammount of SQL.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM2i9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](./profile.svg)
 
 ---------------------------------------------------------------------------------------------------
 🖥️ Visit my website at: https://am2i9.ml <br>
