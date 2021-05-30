@@ -1,5 +1,5 @@
 ### print("Hello World") 👋
----------------------------------------------------------------------------------------------------
+---
 
 My name is Patrick Brennan. I am a Computer Science student in High School. I won't say where, because one of my friends prefers to NOT be doxxed.
 
@@ -11,6 +11,8 @@ I also have experience with MongoDB, and a VERY minimal ammount of SQL.
 <br>
 ![](./profile.svg)
 
----------------------------------------------------------------------------------------------------
+I tend to make little programs and scripts, which you can see in [my gists](https://gist.github.com/AM2i9)
+
+---
 🖥️ Visit my website at: https://am2i9.ml <br>
 ▶️ Visit my very inactive Youtube channel at: https://www.youtube.com/channel/UCfLCmE1BPuZm_xX3hxRMNdQ
