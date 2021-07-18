@@ -1,11 +1,9 @@
 ### print("Hello World") 👋
 ---
 
-My name is Patrick Brennan. I am a Computer Science student in High School. I won't say where, because one of my friends prefers to NOT be doxxed.
+I'm a guy with a love for computers. I mostly do backend-type stuff using Python, but sometimes I try to branch into other languages, such as JavaScript or TypeScript. I also have some experience in C, Java, Lua, and of course JavaScript and Typescript.
 
-I began getting into computers and programming when I was maybe 10, and I just continued to grow to use it more often. I mostly do a lot of backend using Python and have experience running Linux systems. But, I have a little experience with Javascript, Java, C++, and Lua.
-
-I also have experience with MongoDB, and a VERY minimal amount of SQL.
+I also have experience with running Linux systems. A few of my projects are self-hosted in my basement.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM2i9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
