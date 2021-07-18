@@ -1,7 +1,7 @@
 ### print("Hello World") 👋
 ---
 
-I'm a guy with a love for computers. I mostly do backend-type stuff using Python, but sometimes I try to branch into other languages, such as JavaScript or TypeScript. I also have some experience in C, Java, Lua, and of course JavaScript and Typescript.
+I'm a guy with a love for computers. I mostly do backend-type stuff using Python, but sometimes I try to branch into other languages, such as JavaScript or TypeScript. I also have some experience in C, Java, Lua, and of course JavaScript and TypeScript.
 
 I also have experience with running Linux systems. A few of my projects are self-hosted in my basement.
 
